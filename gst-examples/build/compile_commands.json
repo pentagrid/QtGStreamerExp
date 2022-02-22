@@ -1,0 +1,38 @@
+[
+  {
+    "directory": "/home/fleet/scratch/gst-examples/build",
+    "command": "cc -Iplayback/player/gst-play/2fb9557@@gst-play@exe -Iplayback/player/gst-play -I../playback/player/gst-play -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/orc-0.4 -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -g -pthread -MD -MQ 'playback/player/gst-play/2fb9557@@gst-play@exe/gst-play.c.o' -MF 'playback/player/gst-play/2fb9557@@gst-play@exe/gst-play.c.o.d' -o 'playback/player/gst-play/2fb9557@@gst-play@exe/gst-play.c.o' -c ../playback/player/gst-play/gst-play.c",
+    "file": "../playback/player/gst-play/gst-play.c",
+    "output": "playback/player/gst-play/2fb9557@@gst-play@exe/gst-play.c.o"
+  },
+  {
+    "directory": "/home/fleet/scratch/gst-examples/build",
+    "command": "cc -Iplayback/player/gst-play/2fb9557@@gst-play@exe -Iplayback/player/gst-play -I../playback/player/gst-play -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/orc-0.4 -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -g -pthread -MD -MQ 'playback/player/gst-play/2fb9557@@gst-play@exe/gst-play-kb.c.o' -MF 'playback/player/gst-play/2fb9557@@gst-play@exe/gst-play-kb.c.o.d' -o 'playback/player/gst-play/2fb9557@@gst-play@exe/gst-play-kb.c.o' -c ../playback/player/gst-play/gst-play-kb.c",
+    "file": "../playback/player/gst-play/gst-play-kb.c",
+    "output": "playback/player/gst-play/2fb9557@@gst-play@exe/gst-play-kb.c.o"
+  },
+  {
+    "directory": "/home/fleet/scratch/gst-examples/build",
+    "command": "cc -Iplayback/player/gtk/dcc90a5@@gtk-play@exe -Iplayback/player/gtk -I../playback/player/gtk -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/gstreamer-1.0 -I/usr/include/orc-0.4 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -I/usr/include/gtk-3.0 -I/usr/include/gio-unix-2.0 -I/usr/include/pango-1.0 -I/usr/include/fribidi -I/usr/include/harfbuzz -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/libmount -I/usr/include/blkid -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -g -pthread -MD -MQ 'playback/player/gtk/dcc90a5@@gtk-play@exe/meson-generated_.._gtk-play-resources.c.o' -MF 'playback/player/gtk/dcc90a5@@gtk-play@exe/meson-generated_.._gtk-play-resources.c.o.d' -o 'playback/player/gtk/dcc90a5@@gtk-play@exe/meson-generated_.._gtk-play-resources.c.o' -c playback/player/gtk/gtk-play-resources.c",
+    "file": "playback/player/gtk/gtk-play-resources.c",
+    "output": "playback/player/gtk/dcc90a5@@gtk-play@exe/meson-generated_.._gtk-play-resources.c.o"
+  },
+  {
+    "directory": "/home/fleet/scratch/gst-examples/build",
+    "command": "cc -Iplayback/player/gtk/dcc90a5@@gtk-play@exe -Iplayback/player/gtk -I../playback/player/gtk -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/gstreamer-1.0 -I/usr/include/orc-0.4 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -I/usr/include/gtk-3.0 -I/usr/include/gio-unix-2.0 -I/usr/include/pango-1.0 -I/usr/include/fribidi -I/usr/include/harfbuzz -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/libmount -I/usr/include/blkid -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -g -pthread -MD -MQ 'playback/player/gtk/dcc90a5@@gtk-play@exe/gtk-play.c.o' -MF 'playback/player/gtk/dcc90a5@@gtk-play@exe/gtk-play.c.o.d' -o 'playback/player/gtk/dcc90a5@@gtk-play@exe/gtk-play.c.o' -c ../playback/player/gtk/gtk-play.c",
+    "file": "../playback/player/gtk/gtk-play.c",
+    "output": "playback/player/gtk/dcc90a5@@gtk-play@exe/gtk-play.c.o"
+  },
+  {
+    "directory": "/home/fleet/scratch/gst-examples/build",
+    "command": "cc -Iplayback/player/gtk/dcc90a5@@gtk-play@exe -Iplayback/player/gtk -I../playback/player/gtk -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/gstreamer-1.0 -I/usr/include/orc-0.4 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -I/usr/include/gtk-3.0 -I/usr/include/gio-unix-2.0 -I/usr/include/pango-1.0 -I/usr/include/fribidi -I/usr/include/harfbuzz -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/libmount -I/usr/include/blkid -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -g -pthread -MD -MQ 'playback/player/gtk/dcc90a5@@gtk-play@exe/gtk-video-renderer.c.o' -MF 'playback/player/gtk/dcc90a5@@gtk-play@exe/gtk-video-renderer.c.o.d' -o 'playback/player/gtk/dcc90a5@@gtk-play@exe/gtk-video-renderer.c.o' -c ../playback/player/gtk/gtk-video-renderer.c",
+    "file": "../playback/player/gtk/gtk-video-renderer.c",
+    "output": "playback/player/gtk/dcc90a5@@gtk-play@exe/gtk-video-renderer.c.o"
+  },
+  {
+    "directory": "/home/fleet/scratch/gst-examples/build",
+    "command": "cc -Inetwork/http-launch/020b99f@@http-launch@exe -Inetwork/http-launch -I../network/http-launch -I/usr/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libmount -I/usr/include/blkid -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -g -pthread -MD -MQ 'network/http-launch/020b99f@@http-launch@exe/http-launch.c.o' -MF 'network/http-launch/020b99f@@http-launch@exe/http-launch.c.o.d' -o 'network/http-launch/020b99f@@http-launch@exe/http-launch.c.o' -c ../network/http-launch/http-launch.c",
+    "file": "../network/http-launch/http-launch.c",
+    "output": "network/http-launch/020b99f@@http-launch@exe/http-launch.c.o"
+  }
+]

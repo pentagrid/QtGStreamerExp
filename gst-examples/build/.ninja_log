@@ -1,0 +1,12 @@
+# ninja log v5
+7	35	1645565682437640364	playback/player/gtk/gtk-play-resources.h	fe1a50d677aad88e
+1	40	1645565682441640314	playback/player/gtk/gtk-play-resources.c	fd49b618a4d28a23
+0	525	1645565682925634229	playback/player/gst-play/2fb9557@@gst-play@exe/gst-play-kb.c.o	aae6b32a72cd244d
+40	585	1645565682985633475	playback/player/gtk/dcc90a5@@gtk-play@exe/meson-generated_.._gtk-play-resources.c.o	a4fc2960ea078437
+17	675	1645565683073632368	network/http-launch/020b99f@@http-launch@exe/http-launch.c.o	a7857125372df448
+0	693	1645565683093632117	playback/player/gst-play/2fb9557@@gst-play@exe/gst-play.c.o	d509d36c3cb06295
+675	800	1645565683201630759	network/http-launch/http-launch	e219d0ee09d7937a
+693	944	1645565683345628949	playback/player/gst-play/gst-play	651a35994ed304da
+35	1251	1645565683653625077	playback/player/gtk/dcc90a5@@gtk-play@exe/gtk-play.c.o	add1f819b1d0e4b9
+526	1282	1645565683677624775	playback/player/gtk/dcc90a5@@gtk-play@exe/gtk-video-renderer.c.o	b44762b661afed50
+1282	1632	1645565684033620300	playback/player/gtk/gtk-play	7df1e7579937872c
